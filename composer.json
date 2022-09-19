@@ -1,0 +1,19 @@
+{
+  "name": "mnlnk/array",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mnlnk",
+      "email": "u.mnlnk@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Manuylenko\\ArrayHelper\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
